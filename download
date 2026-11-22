@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+# Archivos de respaldo/autoguardado de Proteus
+*.pdsbak
+Last Loaded*.DSN

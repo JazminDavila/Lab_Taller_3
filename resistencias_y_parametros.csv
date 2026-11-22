@@ -1,0 +1,10 @@
+parametro,valor_nominal,valor_medido,unidad
+R1,10000,9730,ohm
+R2,220,216.2,ohm
+Rg,1000,981,ohm
+Rf1,10000,9880,ohm
+Rf2,10000,9750,ohm
+V0 (pin 3V3),3.30,3.29,V
+Alimentacion positiva (pin 4),12,12.01,V
+Alimentacion negativa (pin 11),-12,-12.00,V
+Offset de salida (entrada a GND),0,-39.9,mV

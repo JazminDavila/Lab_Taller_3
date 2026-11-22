@@ -1,0 +1,5 @@
+comando,fio2_pct,codigo_dac,V1_medido_V,TP1_medido_mV,TP1_esperado_guia_mV
+f0,0,0,0.088,1.9,0.0
+f21,21,44,0.518,11.1,10.0
+f50,50,104,1.110,23.8,23.8
+f100,100,208,2.126,45.5,47.6
